@@ -11,13 +11,13 @@ This repository contains a PHP script to:
 ### **1️⃣ Clone the Repository**
 First, clone the repository using Git:
 ```sh
-git clone <repository-url>
+git clone https://github.com/rohitbagga1/php-test.git
 ```
 Replace `<repository-url>` with the actual GitHub repository URL.
 
 ### **2️⃣ Navigate to the Directory**
 ```sh
-cd <repository-folder>
+cd php-test
 ```
 Replace `<repository-folder>` with the actual cloned repository folder name.
 
